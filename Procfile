@@ -1,0 +1,1 @@
+web: gunicorn CS.wspi:aplication --pythpapath app --log-file- 
